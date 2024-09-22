@@ -1,9 +1,11 @@
-### Ola, 
+ 
+###Olá, eu sou Dioni Alves!
 
-Me chamo Dioni Alves, e no ano de 2023 iniciei minha transição de carreira, atuava na area de redes de computadores, mas sempre fui fascinado por desenvolvimento de softwares. 
+Sou apaixonado por tecnologia, com 19 anos de experiência no setor. Ao longo da minha trajetória, me especializei em infraestrutura de redes, mas sempre mantive um olhar atento e envolvimento próximo com o desenvolvimento de software. Acredito que o futuro da tecnologia está na interseção dessas duas áreas.
 
-<p>Parece loucura tomar essa decisão, já que tenho meus 12 anos de experiencia na area de rede de computadores, uma boa remuneração e estabilidade de emprego. Mas nada é mais gratificante que
-trabalhar com o que é apaixonado, por isso hoje me considero um <b>Desenvolvedor de Software</b>. Aqui pretendo registrar meus projetos, e com isso a evolução de meus conheicmento no ano de 2023 </p>
+Neste repositório, vou compartilhar projetos que integram infraestrutura de redes com programação, utilizando a automação e o desenvolvimento de ferramentas que otimizam a gestão e a expansão de redes. Meu objetivo é simplificar e inovar processos, unindo minhas paixões por redes e software para criar soluções que ajudem a melhorar o dia a dia dos profissionais de TI.
+
+Fique à vontade para explorar, colaborar e acompanhar o desenvolvimento de projetos que facilitam o trabalho de manter e expandir infraestruturas de rede de maneira eficiente e inteligente.
 
 <h4>Me encontre nas redes sociais:</h4>
 <p dir=auto>
