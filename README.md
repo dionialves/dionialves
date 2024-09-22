@@ -11,31 +11,3 @@ trabalhar com o que é apaixonado, por isso hoje me considero um <b>Desenvolvedo
 <a href="https://www.linkedin.com/in/dionialves/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-instagram" /></a>
 </p>
 <br>
-<h5>Conhecimentos em:</h5>
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<!-- 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
--->
-<h5>Aprendendo no Momento:</h5>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<br>
-<br>
-<br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dionialves&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionialves&layout=compact)
